@@ -1,0 +1,22 @@
+{
+  "wheel_id": 473,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractorsnearme-151",
+  "project": "retaining-wall-contractors-california-d3265784853ac35a196fcdd18",
+  "parent_t1_ref": "retainingwallcontractorsnearme-006",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractorsnearme.com",
+  "primary_kw": "retaining wall contractors california",
+  "intended_url": "http://retaining-wall-contractors-california-d3265784853ac35a196fcdd18.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "dfc599084b856fc1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-contractors-california-006/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
